@@ -43,7 +43,7 @@
     "querystring": "^0.2.0",
     "rimraf": "^2.6.2",
     "serve-favicon": "^2.5.0",
-    "webpack-dev-middleware": "^3.4.0",
+    "webpack-dev-middleware": "^3.7.0",
     "webpack-hot-middleware": "^2.24.3",
     "webpack-merge": "^4.2.1",
     "webpack-node-externals": "^1.7.2",
