@@ -30,7 +30,7 @@
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.4.2",
-    "clipboardy": "^1.2.3",
+    "clipboardy": "^2.1.0",
     "compression": "^1.7.4",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
